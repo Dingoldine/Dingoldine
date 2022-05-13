@@ -1,6 +1,6 @@
 <h1 align="center"> 🚀  Hi, I'm Philip 🚀 </h1>
 
-I program mainly in Python and Typescript/Javascript. I plan to and wan't to get more involved with C++ or Rust. 
+I program mainly in Python and Typescript/Javascript. I plan to and want to get more involved with C++ or Rust. 
 
 - ☁️ Favorite Cloud [IBM Cloud](https://cloud.ibm.com/) followed by [Linode](https://www.linode.com/) 
 - 🧰 Favorite Deployment Platform is RedHat Openshift, powerful and comes with amazing GUI for Developers
