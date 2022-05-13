@@ -1,4 +1,4 @@
-<center> ### 🚀 Hi, I'm Philip 🚀 </center>
+<h1 align="center"> 🚀  Hi, I'm Philip 🚀 </h1>
 
 I program mainly in Python and Typescript/Javascript. I plan to and wan't to get more involved with C++ or Rust. 
 
