@@ -1,10 +1,10 @@
 <h1 align="center"> 🚀  Hi, I'm Philip 🚀 </h1>
 
-I program mainly in Python and Typescript/Javascript. I plan to and want to get more involved with C++ or Rust. 
+I program mainly in Python and Typescript. I have 5 years experience deploying complex containerized software for enterprise clients on modern hybrid platforms. 
 
-- ☁️ Favorite Cloud [IBM Cloud](https://cloud.ibm.com/) followed by [Linode](https://www.linode.com/) 
-- 🧰 Favorite Deployment Platform is RedHat Openshift, powerful and comes with amazing GUI for Developers
-- 🌱 I'm currently Learning Terraform and VPC architecture 
+- ☁️ My favorite cloud is  [Google Cloud](https://cloud.google.com/?hl=en) followed by [IBM Cloud](https://cloud.ibm.com/)
+- 🧰 Favorite Deployment Platform is [RedHat Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift), powerful and comes with amazing GUI for Developers
+- 🌱 I'm currently learning Google Cloud and Openshift 
 
 - 🏢 I work as a Cloud Engineer @ IBM Client Engineering 
 - 🗺️ I live in Stockholm, Sweden
