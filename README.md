@@ -8,4 +8,4 @@ I program mainly in Python and Typescript. I have 5 years experience deploying c
 
 - 🏢 I work as a Cloud Engineer @ IBM Client Engineering 
 - 🗺️ I live in Stockholm, Sweden
-- ❓ Reach me on [LinkedIn](https://www.linkedin.com/in/philip-rumman/)
+- ❓ Reach me on [LinkedIn](https://www.linkedin.com/in/philip-rumman/) / [Cord](https://cord.co/candidate/account/u/candidate/50750) / [BrainVille](https://www.brainville.com/ResourceManagement/ProfessionalProfile/Index/48660)
